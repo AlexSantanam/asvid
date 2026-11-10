@@ -1,0 +1,19 @@
+{
+  "name": "asvid-web",
+  "version": "1.0.0",
+  "description": "Sitio Web y Portafolio de Obras para Ingeniería y Construcción Asvid SpA",
+  "scripts": {
+    "dev": "npx serve . -p 3005",
+    "start": "npx serve . -p 3005"
+  },
+  "keywords": [
+    "asvid",
+    "construccion",
+    "ingenieria",
+    "obras-civiles",
+    "valparaiso",
+    "vina-del-mar"
+  ],
+  "author": "UNIVERSO693 SpA",
+  "license": "MIT"
+}
