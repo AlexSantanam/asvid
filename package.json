@@ -1,18 +1,18 @@
 {
-  "name": "asvid-web",
+  "name": "asvid-multiservicios",
   "version": "1.0.0",
-  "description": "Sitio Web y Portafolio de Obras para Ingeniería y Construcción Asvid SpA",
+  "description": "Plataforma Multiservicios de Ingeniería, Obras Civiles y Construcción Asvid SpA",
   "scripts": {
-    "dev": "npx serve . -p 3005",
-    "start": "npx serve . -p 3005"
+    "dev": "npx serve . -p 3006",
+    "start": "npx serve . -p 3006"
   },
   "keywords": [
     "asvid",
-    "construccion",
-    "ingenieria",
+    "multiservicios",
+    "constructora",
     "obras-civiles",
-    "valparaiso",
-    "vina-del-mar"
+    "galpones",
+    "pavimentacion"
   ],
   "author": "UNIVERSO693 SpA",
   "license": "MIT"
